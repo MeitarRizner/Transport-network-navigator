@@ -10,4 +10,6 @@ Transport network navigator application - My own version of "MOOVIT". Developed 
 * print - shows all the transport network map.
 
 ### Example: 
-![Capture](https://user-images.githubusercontent.com/101214168/174071821-c9a0f20f-0c07-4f49-ad8f-308b758fa9d9.JPG =250x250)
+![Capture](https://user-images.githubusercontent.com/101214168/174071821-c9a0f20f-0c07-4f49-ad8f-308b758fa9d9.JPG)
+
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/101214168/174071821-c9a0f20f-0c07-4f49-ad8f-308b758fa9d9.JPG)" width="100" height="100">
