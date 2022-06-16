@@ -1,4 +1,4 @@
-# Transport-network-navigator
+# Transport network navigator
 Transport network navigator application - My own version of "MOOVIT". Developed  with C++11.
 
 ### Commands:
