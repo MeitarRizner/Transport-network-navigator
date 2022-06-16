@@ -1,7 +1,8 @@
 ### Transport-network-navigator
-##Transport network navigator application - My own version of "MOOVIT". Developed  with C++11.
+#Transport network navigator application - My own version of "MOOVIT". Developed  with C++11.
 
-##Commands:
+Commands:
+
 1)load file_name
 2)outbound station_name
 3)inbound station_name
